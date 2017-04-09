@@ -1,0 +1,10 @@
+Cost:4
+Color:balance and war
+Rarity:Common
+Skill:Crystal 
+Skill:Flying 
+Skill:Ranged 20
+
+Type:Ally
+Hp:70
+Lvl:Lv3

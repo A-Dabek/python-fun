@@ -1,0 +1,8 @@
+Cost:3
+Color:chaos
+Rarity:Rare
+Skill:Break 20
+
+Skill:Thrash 
+Type:Armor
+Hp:411

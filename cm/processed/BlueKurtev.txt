@@ -1,0 +1,9 @@
+Cost:3
+Color:nature
+Rarity:Common
+Skill:Flying 
+Skill:Ranged 10
+
+Type:Ally
+Hp:40
+Lvl:Lv1

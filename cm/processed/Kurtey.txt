@@ -1,0 +1,8 @@
+Cost:2
+Color:balance and war
+Rarity:Common
+Skill:Ranged 10
+
+Type:Ally
+Hp:40
+Lvl:Lv0

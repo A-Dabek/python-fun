@@ -1,0 +1,8 @@
+Cost:2
+Color:chaos
+Rarity:Common
+Skill:Magic 10
+
+Type:Ally
+Hp:30
+Lvl:Lv0

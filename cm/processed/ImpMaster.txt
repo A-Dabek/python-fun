@@ -1,0 +1,10 @@
+Cost:5
+Color:chaos
+Rarity:Common
+Skill:Crystal 
+Skill:Reflect 
+Skill:Magic 30
+
+Type:Ally
+Hp:40
+Lvl:Lv3

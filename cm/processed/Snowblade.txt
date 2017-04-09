@@ -1,0 +1,8 @@
+Cost:2
+Color:balance
+Rarity:Common
+Skill:Melee 10
+
+Type:Ally
+Hp:40
+Lvl:Lv0

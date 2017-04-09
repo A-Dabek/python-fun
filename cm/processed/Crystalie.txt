@@ -1,0 +1,11 @@
+Cost:2
+Color:balance
+Rarity:Common
+Skill:Crystal 
+Skill:Ranged 10
+
+Skill:Melee 10
+
+Type:Ally
+Hp:40
+Lvl:Lv2

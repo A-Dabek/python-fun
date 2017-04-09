@@ -1,0 +1,10 @@
+RATIO = (1600, 900)
+SCALE = 0.6
+SCR_W = int(RATIO[0] * SCALE)
+SCR_H = int(RATIO[1] * SCALE)
+CARD_W = 0
+CARD_H = 0
+CR_W = 0
+CR_H = 0
+BOARD_CAPACITY = 5
+SCENES = ['crystal', 'champ', 'deck', 'board', 'grave', 'hand']

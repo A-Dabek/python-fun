@@ -1,0 +1,10 @@
+Cost:4
+Color:nature
+Rarity:Common
+Skill:Crystal 
+Skill:Flying 
+Skill:Ranged 30
+
+Type:Ally
+Hp:70
+Lvl:Lv4

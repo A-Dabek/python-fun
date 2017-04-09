@@ -1,0 +1,10 @@
+Cost:4
+Color:war
+Rarity:Common
+Skill:Crystal 
+Skill:Reach 
+Skill:Melee 30
+
+Type:Ally
+Hp:80
+Lvl:Lv4

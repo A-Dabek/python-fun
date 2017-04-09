@@ -1,0 +1,8 @@
+Cost:3
+Color:chance
+Rarity:Uncommon
+Skill:Ranged 30
+
+Type:Ally
+Hp:80
+Lvl:Lv4

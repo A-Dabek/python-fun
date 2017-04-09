@@ -1,0 +1,7 @@
+Cost:1
+Color:generic
+Rarity:Rare
+Skill:Crystal 
+Type:Use
+
+Hp:
